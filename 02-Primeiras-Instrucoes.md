@@ -1,4 +1,4 @@
-## 3. Primeiras Instruções do Processador
+## 02. Primeiras Instruções do Processador
 
 Depois que a alimentação do computador é estabilizada e o processador sai do estado de reset, a CPU começa a executar suas primeiras instruções. Nesse momento, o sistema operacional ainda não está carregado, portanto o processador precisa iniciar a execução de um código que já esteja disponível no próprio computador.
 
