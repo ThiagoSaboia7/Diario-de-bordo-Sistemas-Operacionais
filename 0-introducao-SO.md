@@ -48,15 +48,15 @@ Este Diário de Bordo foi desenvolvido para organizar e documentar os conteúdos
 
 
 
-### 01 — Introdução Sistemas Operacionais
+### 00 — Introdução Sistemas Operacionais
 
-[01-Introducao-SO.md](./01-Introducao-SO.md)
+[00-Introducao-SO.md](./00-Introducao-SO.md)
 
 ---
 
-### 02 — Energização do Computador
+### 01 — Energização do Computador
 
-[02-atributos.md](./02-atributos.md)
+[01-Energizacao.md](./01-Energizacao.md)
 
 ---
 
