@@ -50,7 +50,7 @@ Este Diário de Bordo foi desenvolvido para organizar e documentar os conteúdos
 
 ### 00 — Introdução Sistemas Operacionais
 
-[00-Introducao-SO.md](./00-Introducao-SO.md)
+[00-Introducao-SO.md](00-introducao-SO.md)
 
 ---
 
