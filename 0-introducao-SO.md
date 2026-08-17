@@ -42,9 +42,9 @@ Este Diário de Bordo foi desenvolvido para organizar e documentar os conteúdos
           |             E/S             |
           |              |              |
            \             v             /   
-             \        FLUXOGRAMA      /
-              \                      /  
-               +____________________+  
+            \        FLUXOGRAMA       /
+             \                       /  
+              +_____________________+  
 
 
 
