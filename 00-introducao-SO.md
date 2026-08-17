@@ -46,71 +46,71 @@ Este Diário de Bordo foi desenvolvido para organizar e documentar os conteúdos
              \                       /  
               +_____________________+  
 
-
+```
 
 ### 00 — Introdução Sistemas Operacionais
 
-[00-Introducao-SO.md](00-introducao-SO.md)
+[00-Introducao-SO.md](./00-introducao-SO.md)
 
 ---
 
 ### 01 — Energização do Computador
 
-[01-Energizacao.md](01-Energizacao.md)
+[01-Energizacao.md](./01-Energizacao.md)
 
 ---
 
-### 03 — Primeiras Instruções do Processador
+### 02 — Primeiras Instruções do Processador
 
-[03-relacionamentos.md](./03-relacionamentos.md)
-
----
-
-### 04 — BIOS/UEFI
-
-[04-mer-e-der.md](./04-mer-e-der.md)
+[03- Primeiras Instruções do Processador.md](./02-Primeiras-Instrucoes.md)
 
 ---
 
-### 05 — POST e Preparação do Hardaware
+### 03 —  BIOS/UEFI e suas Funções
 
-[05-mer-e-der.md](./04-mer-e-der.md)
-
----
-
-### 06 — Comunicação entre os Componentes e Barramentos
-
-[06-mer-e-der.md](./04-mer-e-der.md)
+[04- BIOS/UEFI e suas Funções.md](./03-BIOS-EUFI.md)
 
 ---
 
-### 07 — Localização e Carregamento do Sistema Operacional
+### 04 — POST e Preparação do Hardaware
 
-[07-mer-e-der.md](./04-mer-e-der.md)
-
----
-
-### 08 — Transferência de Controle para o Sistema Operacional
-
-[08-mer-e-der.md](./04-mer-e-der.md)
+[05-POST e Preparação do Hardware.md](./04-POST.md)
 
 ---
 
-### 09 — Drivers e Gerenciamento de Recursos
+### 05 — Comunicação entre os Componentes e Barramentos
 
-[09-mer-e-der.md](./04-mer-e-der.md)
-
----
-
-### 10 —  Dispositivos de Entrada e Saída e Conclusão do Processo
-
-[10-mer-e-der.md](./04-mer-e-der.md)
+[05- Comunicação entre os Componentes e Barramentos.md](./05Comunicacao.md)
 
 ---
 
-### 11 — Fluxograma Geral do Processo
+### 06 — Localização e Carregamento do Sistema Operacional
 
-[11-mer-e-der.md](./04-mer-e-der.md)
+[06-Localização e Carregamento do Sistema Operacional.md](./06-Localizacao.md)
+
+---
+
+### 07 — Transferência de Controle para o Sistema Operacional
+
+[07-Transferência de Controle para o Sistema Operacional.md](./07-Transferencia.md)
+
+---
+
+### 08 — Drivers e Gerenciamento de Recursos
+
+[08-Drivers e Gerenciamento de Recursos.md](./08-Drivers.md)
+
+---
+
+### 09 —  Dispositivos de Entrada e Saída e Conclusão do Processo
+
+[09-ispositivos de Entrada e Saída e Conclusão do Processo.md](./09-E-S.md)
+
+---
+
+### 10 — Fluxograma Geral do Processo
+
+[10-Fluxograma Geral do Processo.md](./10-Fluxograma.md)
 
 ---
 
