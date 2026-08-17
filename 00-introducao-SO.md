@@ -56,7 +56,7 @@ Este Diário de Bordo foi desenvolvido para organizar e documentar os conteúdos
 
 ### 01 — Energização do Computador
 
-[01-Energizacao.md](./01-Energizacao.md)
+[01-Energizacao.md](01-Energizacao.md)
 
 ---
 
