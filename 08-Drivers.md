@@ -1,4 +1,4 @@
-## 8. Drivers e Gerenciamento de Recursos
+## 08. Drivers e Gerenciamento de Recursos
 
 Depois que o Kernel assume o controle da máquina, o sistema operacional precisa administrar os recursos disponíveis e se comunicar corretamente com os diferentes dispositivos de hardware.
 
