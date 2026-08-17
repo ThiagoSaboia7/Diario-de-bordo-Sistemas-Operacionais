@@ -1,0 +1,40 @@
+## 9. Dispositivos de Entrada e Saída e Conclusão do Processo
+
+Depois que o sistema operacional assume o controle, os drivers estão carregados e os recursos estão sendo gerenciados, o computador passa a interagir diretamente com o usuário por meio dos dispositivos de *Entrada e Saída (E/S)*.
+
+Os dispositivos de entrada enviam informações para o computador, enquanto os dispositivos de saída apresentam os resultados do processamento.
+
+### Exemplos de entrada
+
+* teclado;
+* mouse;
+* microfone;
+* câmera;
+* dispositivos USB.
+
+### Exemplos de saída
+
+* monitor;
+* caixas de som;
+* impressora;
+* dispositivos de armazenamento, dependendo da operação realizada.
+
+Um exemplo simples ajuda a entender esse processo. Quando o usuário pressiona uma tecla no teclado, a informação percorre diferentes etapas até aparecer na tela.
+
+O fluxo pode ser representado assim:
+
+*Teclado → USB → Controlador → Driver → Sistema Operacional → Aplicação → GPU → Monitor*
+
+Nesse processo, o teclado gera a entrada, o sistema operacional recebe e interpreta o evento com auxílio do driver, a aplicação utiliza essa informação e o resultado pode ser exibido no monitor.
+
+As *interrupções* também possuem um papel importante. Elas permitem que determinados dispositivos sinalizem ao sistema que algum evento ocorreu e precisa ser tratado, evitando que o processador tenha que verificar constantemente cada dispositivo.
+
+Os barramentos e interfaces continuam sendo fundamentais nessa etapa, pois transportam os dados entre os diferentes componentes do computador.
+
+Ao final de todo o processo estudado, o fluxo completo de inicialização e funcionamento pode ser resumido da seguinte forma:
+
+*Power → Fonte → Placa-mãe → CPU → BIOS/UEFI → POST → Hardware inicializado → Boot → Bootloader → Kernel → Drivers → Gerenciamento de recursos → Entrada e Saída → Sistema pronto para uso*
+
+Esse processo mostra que a inicialização de um computador não depende de um único componente. O processador possui um papel central, pois executa as instruções em praticamente todas as etapas, mas trabalha em conjunto com memória, armazenamento, firmware, barramentos, controladores, drivers e o próprio sistema operacional.
+
+Assim, o estudo permitiu compreender como ocorre a passagem de controle desde o firmware da placa-mãe até o sistema operacional e como, depois dessa transição, os recursos do computador passam a ser administrados para permitir a execução dos programas e a interação com o usuário.
